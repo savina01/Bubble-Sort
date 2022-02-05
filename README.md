@@ -1,4 +1,8 @@
 # Simple program for sorting
+### What I've learned:
+- vizualization way of bubble sort.
+- strong understanding of bubble sort.
+
 -DEMO
 
 ![1](https://user-images.githubusercontent.com/75179050/152589132-94c20b80-1afd-4e4b-9c7d-ef6598d0340c.jpg)
